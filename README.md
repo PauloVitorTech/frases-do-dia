@@ -17,7 +17,7 @@ Um site web interativo, leve e responsivo desenvolvido para gerar frases motivac
 ## 🛠️ Tecnologias Utilizadas
 Este projeto foi desenvolvido utilizando apenas as tecnologias nativas da web, sem necessidade de instalação de dependências ou frameworks complexos:
 - **HTML5:** Estrutura semântica da página.
-- **CSS3:** Estilização avançada, Flexbox e animações `@keyframes`.
+- **CSS3:** Estilização avançada, Flexbox e animações.
 - **JavaScript (Vanilla):** Lógica de manipulação do DOM e sorteio aleatório das frases.
 
 ---
